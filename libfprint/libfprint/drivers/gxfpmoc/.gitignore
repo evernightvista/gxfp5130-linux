@@ -1,6 +1,0 @@
-build/
-
-# Local outputs
-out/
-*.bin
-*.pgm
